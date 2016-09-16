@@ -1,6 +1,7 @@
 import React, { Component, PropTypes } from "react"
 
 import "./index.global.css"
+import "./highlight.global.css"
 
 import Container from "./components/Container"
 import DefaultHeadMeta from "./components/DefaultHeadMeta"
